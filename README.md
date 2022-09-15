@@ -1,2 +1,4 @@
 # food-booking
-basic food booking incomp working thou... (school project)
+basic food booking incomp but working thou...  
+database file bookingsys.sql
+school project
